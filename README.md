@@ -1,6 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-[https://colab.research.google.com/github/AlejaCruzR/Telecom_X_2/blob/main/TelecomX_LATAM_.ipynb]
-)
+
 
 # 📊 Telecom X – Predicción de Evasión de Clientes (Churn)
 
