@@ -1,10 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Linth84/EdVillalbaTelecomXParte2/blob/main/EdVillaba_Telecom_X_Parte_2.ipynb
+[https://colab.research.google.com/github/AlejaCruzR/Telecom_X_2/blob/main/TelecomX_LATAM_.ipynb]
 )
 
 # 📊 Telecom X – Predicción de Evasión de Clientes (Churn)
 
-**Autor:** Alberto Edgardo Villalba  
 **Challenge:** Telecom X Parte 2 – Alura (Data Science / Machine Learning)
 
 ---
